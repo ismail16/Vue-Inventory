@@ -1,4 +1,4 @@
-# superstore
+# Vue-Inventory
 
 > A Vue.js project
 
