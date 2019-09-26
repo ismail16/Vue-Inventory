@@ -1,5 +1,5 @@
 <template>
-	<h1>Test rouer</h1>
+	<h1>Test rouer {{ $route.params.id }}</h1>
 </template>
 
 
