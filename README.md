@@ -8,6 +8,14 @@
 # install dependencies
 npm install
 
+#install router
+
+npm install vue-router
+
+#install bootstrap
+
+npm install bootstrap jquery popper.js
+
 # serve with hot reload at localhost:8080
 npm run dev
 
